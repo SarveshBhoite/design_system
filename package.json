@@ -9,7 +9,7 @@
     "lint": "next lint",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "chromatic": "npx chromatic --project-token=chpt_f3df0da6562a622"
+    "chromatic": "npx chromatic --project-token=chpt_53e0b56c2d8bb17"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
